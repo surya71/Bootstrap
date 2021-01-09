@@ -36,3 +36,10 @@ body{
 .navbar-dark {
     background-color: darkblue;
 }
+
+.first-table > tr:nth-child(odd){
+    background-color: #A1D6E2;
+}
+.first-table > tr:nth-child(even){
+    background-color: #1995AD;
+}
